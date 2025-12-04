@@ -8,9 +8,9 @@
 - [Лабораторна робота №3](https://github.com/KyivSec/cslabs/tree/lab3)
 - [Лабораторна робота №4](https://github.com/KyivSec/cslabs/tree/lab4)
 - [Лабораторна робота №5](https://github.com/KyivSec/cslabs/tree/lab5)
-# Test results
+# ✅ Результати тестування 
 ![Test](devenv_ZERmtAcNx1.png)
-# Files
+# 📁 Файли
 - [Program.cs](DeliverySystem/Program.cs)
 - [Vehicle.cs](DeliverySystem/Vehicle.cs)
 - [Scooter.cs](DeliverySystem/Scooter.cs)

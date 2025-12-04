@@ -1,4 +1,4 @@
-# 🖥️ Лабораторні роботи | C# ООП
+# 🖥️ **Лабораторні роботи | C# ООП**
 ## 📝 Лабораторна робота №1
 
 [📌 Головна сторінка](https://github.com/KyivSec/cslabs)
@@ -11,8 +11,8 @@
 # ✅ Результати тестування
 ![Test](devenv_4gvw0C6Wo5.png)
 # 📁 Файли
-- [📄 Task 1](Task1/Program.cs)
-- [📄 Task 2](Task2/Program.cs)
-- [📄 Task 3](Task3/Program.cs)
-- [📄 Task 4](Task4/Program.cs)
-- [📄 Task 5](Task5/Program.cs)
+- [📄 Task1/Program.cs](Task1/Program.cs)
+- [📄 Task2/Program.cs](Task2/Program.cs)
+- [📄 Task3/Program.cs](Task3/Program.cs)
+- [📄 Task4/Program.cs](Task4/Program.cs)
+- [📄 Task5/Program.cs](Task5/Program.cs)

@@ -8,9 +8,9 @@
 - [Лабораторна робота №3](https://github.com/KyivSec/cslabs/tree/lab3)
 - [Лабораторна робота №4](https://github.com/KyivSec/cslabs/tree/lab4)
 - [Лабораторна робота №5](https://github.com/KyivSec/cslabs/tree/lab5)
-# Test results
+# Результати тестування
 ![Test](devenv_4gvw0C6Wo5.png)
-# Tasks
+# Завдання
 - [Task 1](Task1/Program.cs)
 - [Task 2](Task2/Program.cs)
 - [Task 3](Task3/Program.cs)
